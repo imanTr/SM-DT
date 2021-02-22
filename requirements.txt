@@ -1,0 +1,8 @@
+# pip install -r requirements.txt
+
+pandas
+numpy
+networkx
+scipy
+hd5py
+
